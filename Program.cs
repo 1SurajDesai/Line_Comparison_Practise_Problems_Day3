@@ -7,8 +7,8 @@ namespace LineComparisonProblem
         {
             //Console.WriteLine("Welcome to Line Comparison Computation Program.");
             //CalLengthOfLine.CalculateLength();
-            EqualityOfLines.CheckEqualityOfLines();
-            //LineComparison.LineComparison();
+            //EqualityOfLines.CheckEqualityOfLines();
+            LineComparison.LineComparison();
 
         }
     }
